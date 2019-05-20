@@ -1,0 +1,19 @@
+{
+	"ProcessName": "RespaldoPVCI",
+	"CompleteProcessName": "Respaldo PVCI",
+	"DirectoryInput" : "",
+	"DirectoryOutput" : "",
+        "UsedApps": ["SharePoint"],
+        "ppvCredential": "ppvCredential",
+        "pathLibraries": "//Data//Input//Biblotecas.xlsx",
+        "sheetLibraries": "Biblotecas",
+	"PathInputWorkbook":"C:\\Users\\ssegundo\\Documents\\Trabajos\\Pendientes\\Posadas\\Excel de prueba.xlsx",
+        "PathTemp_PPV_MigratorFiles":"C:\\Temp\\PPV\\PPV_MigratorFiles\\",
+        "SheetTemp_PPV_MigratorFiles":"PPV_MigratorFiles",
+        "PathTemp_PPV_CompleteList":"C:\\Temp\\PPV\\PPV_CompleteList\\",
+        "SheetTemp_PPV_CompleteList":"PPV_CompleteList",
+        "PathTemp_PPV_LibrariesList":"C:\\Temp\\PPV\\PPV_LibrariesList\\",
+        "SheetTemp_PPV_LibrariesList":"PPV_LibrariesList",
+        "PathDownloads":"C:\\Users\\gandrade\\Downloads\\",
+        "UrlClientePVCISharePoint":"https://posadasvecino.sharepoint.com/sites/ClientePVCI/"
+}

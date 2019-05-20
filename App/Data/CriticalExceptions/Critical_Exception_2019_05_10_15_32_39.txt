@@ -1,0 +1,6 @@
+A critical exception has ocurred: Object reference not set to an instance of an object.
+Has ocurred in: If is not stopping from ContinueOnSystemError =>  => Invoke LogMessage workflow => LogMessage
+With the trace:    at UiPath.Executor.WorkflowRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.InvokeWorkflowFile.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)

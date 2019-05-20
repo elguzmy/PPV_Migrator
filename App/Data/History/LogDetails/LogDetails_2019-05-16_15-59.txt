@@ -1,0 +1,586 @@
+﻿1 | General | 352 | Info | 2019-05-16 03:42:20 |  | Iniciando Robot.
+1 | General | 352 | Info | 2019-05-16 03:42:20 |  | Carpetas y archivos de proyecto preparados...
+1 | General | 352 | Info | 2019-05-16 03:42:20 |  | Borrando historial viejo...
+1 | General | 352 | Info | 2019-05-16 03:42:20 |  | Borrando archivos temporales...
+1 | General | 352 | Info | 2019-05-16 03:42:20 |  | Inicialización de carpetas y archivos completada...
+1 | General | 352 | Info | 2019-05-16 03:42:26 |  | No se puede recuperar, inicializando recovery por defecto
+1 | General | 352 | Info | 2019-05-16 03:42:28 |  | Inicialización general completada!
+1 | General | 352 | Info | 2019-05-16 03:42:30 |  | Ejecutando Respaldo PVCI
+1 | General | 352 | Info | 2019-05-16 03:42:30 |  | Inicializando TransactionNumber
+1 | General | 352 | Info | 2019-05-16 03:42:31 |  | Inicializando QueueList..
+1 | General | 352 | Info | 2019-05-16 03:42:31 |  | Matando aplicaciones...
+1 | General | 352 | Info | 2019-05-16 03:42:34 |  | Chrome no esta abierto...
+1 | General | 352 | Info | 2019-05-16 03:42:36 |  | Modificando RecoverNumber...
+1 | General | 352 | Info | 2019-05-16 03:42:36 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 352 | Info | 2019-05-16 03:42:36 |  | Matando aplicaciones...
+1 | General | 352 | Info | 2019-05-16 03:42:39 |  | Chrome no esta abierto...
+1 | General | 352 | Info | 2019-05-16 03:42:39 |  | Inicializacion Completada!
+1 | General | 352 | Info | 2019-05-16 03:42:40 |  | Abriendo aplicaciones...
+1 | General | 352 | Info | 2019-05-16 03:42:43 |  | Log in to sharepoint
+1 | General | 352 | Info | 2019-05-16 03:42:55 |  | ItemData tomado correctamente!
+1 | General | 352 | Info | 2019-05-16 03:42:55 |  | Procesando 0...
+1 | 0 | 352 | Info | 2019-05-16 03:43:11 |  | Moviendo archivos descargados
+1 | 0 | 352 | Info | 2019-05-16 03:43:16 |  | Filtrando arhivos en la bibloteca
+1 | 0 | 352 | Info | 2019-05-16 03:43:16 |  | Escribiendo archivos ya filtrado en Excel
+1 | 0 | 352 | Info | 2019-05-16 03:43:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:18 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1201096.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:22 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:26 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:27 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181098.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:27 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:29 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:30 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1267262.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:30 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:32 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:32 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288232.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:33 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:34 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:35 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1292218.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:35 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:37 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:38 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288183.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:38 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:40 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:40 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288221.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:43:40 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:42 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:43 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181071.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:43 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:45 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1201021.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:48 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:49 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235163.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:49 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:51 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235174.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:53 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:53 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1276364.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:56 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:56 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235193.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:56 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:43:58 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:43:59 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235217.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:43:59 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:01 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:01 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1211473.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:02 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:03 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:04 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1296333.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:04 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:06 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:07 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235264.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:07 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:09 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:15 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235324.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:15 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:18 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235082.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:18 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:20 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:21 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1235331.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:21 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:22 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:23 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1274506.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:23 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:25 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:26 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202433.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:26 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:28 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:29 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228368.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:29 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:30 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1189120.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:31 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:32 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:33 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1191329.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:33 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:35 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:35 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264529.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:36 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:36 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:37 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1194464.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:37 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:39 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:39 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1257442.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:41 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:42 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:43 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264552.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:43 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:44 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1189492.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:46 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:47 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1191331.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:47 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:48 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:49 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1274700.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:44:49 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:51 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181101.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:53 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:53 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1191330.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:55 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:56 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1194303.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:56 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:57 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:44:58 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1257454.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:44:58 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:44:59 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:00 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1278207.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:00 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:45:08 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:08 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1287836.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:09 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:45:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:20 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1287833.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:21 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:45:27 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:28 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1291981.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:28 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:45:39 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:39 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181078.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:40 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:45:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:45:50 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181081.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:45:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:00 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:01 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1189461.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:46:01 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:02 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:03 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1190478.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:03 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:13 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:14 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193843.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:14 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:23 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:26 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202385.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:26 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:36 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:37 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205170.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:37 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:45 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1213576.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:46:55 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:46:55 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218239.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:46:56 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:04 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:05 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181083.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:05 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:07 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:07 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264477.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:47:07 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:15 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:16 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264478.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:47:16 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:24 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:25 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264479.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:47:25 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:31 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:32 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223450.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:32 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:34 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:35 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1227926.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:35 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:38 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:38 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251519.XLSM
+1 | 0 | 352 | Info | 2019-05-16 03:47:39 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:47 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:48 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251546.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:48 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:51 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202634.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:53 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:54 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205418.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:56 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:47:57 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218455.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:47:57 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:47:59 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:00 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223729.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:00 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:02 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:02 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228271.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:03 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:05 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:05 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264594.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:06 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:08 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:08 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1275499.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:09 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:11 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:11 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264693.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:11 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:14 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:14 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288458.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:15 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:18 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1206013.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:18 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:19 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:20 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1189116.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:20 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:22 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:22 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1206012.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:22 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:24 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:25 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223457.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:25 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:26 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:27 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288175.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:48:27 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:28 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:29 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1292213.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:48:29 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:31 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251551.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:48:32 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:33 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:34 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193846.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:34 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:36 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:37 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1213733.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:38 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:39 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:40 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181086.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:40 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:42 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:43 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251528.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:43 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:45 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251544.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:47 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:48 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202427.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:48 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:50 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181089.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:53 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:53 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193574.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:54 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:55 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193910.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:55 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:56 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:57 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202401.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:57 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:48:58 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:48:59 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202687.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:48:59 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:00 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:00 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1189130.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:01 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:01 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:02 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1198187.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:02 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:03 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:04 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202409.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:04 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:05 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:06 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202686.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:06 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:07 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:07 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193903.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:08 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:08 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:09 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202414.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:09 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:10 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:11 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202684.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:11 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:12 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:12 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193282.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:13 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:13 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:14 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202394.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:14 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:15 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:16 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202680.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:16 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:17 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1193896.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:18 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:18 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:19 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1198255.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:19 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:20 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:21 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202681.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:21 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:22 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:22 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264613.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:23 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:24 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:24 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218278.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:24 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:25 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:26 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1221224.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:26 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:27 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:28 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228254.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:28 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:29 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:29 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264590.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:30 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:30 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181836.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:49:31 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:33 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:33 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181359.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:49:34 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:35 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:36 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264483.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:36 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:37 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:43 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288149.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:43 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:45 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:45 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1199096.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:46 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:47 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:47 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1199133.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:47 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:48 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:49 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1199340.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:49 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:50 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:51 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1199512.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:51 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:52 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:52 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202653.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:53 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:53 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:54 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205301.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:55 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:56 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1213740.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:56 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:57 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:58 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218251.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:49:58 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:49:59 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:49:59 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223493.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:00 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:00 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:01 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228096.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:01 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:02 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:03 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264513.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:03 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:04 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:05 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264521.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:05 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:06 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:06 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264522.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:07 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:07 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:08 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288179.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:08 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:09 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:10 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1292214.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:10 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:11 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:12 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264510.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:12 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:13 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:13 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264511.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:14 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:14 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:15 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1198907.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:15 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:17 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205298.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:18 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:19 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:20 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218287.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:20 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:21 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:22 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223573.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:22 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:24 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:24 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228264.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:25 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:26 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:27 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1198257.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:27 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:28 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:29 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264673.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:29 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:31 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1252329.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:32 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:33 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:34 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181090.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:34 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:36 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:36 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288174.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:36 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:38 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:39 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181592.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:50:39 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:41 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:42 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181092.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:42 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:43 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:49 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181094.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:49 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:51 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:52 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1198780.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:52 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:54 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:54 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202571.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:55 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:57 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:50:57 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205270.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:50:58 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:50:59 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:00 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1215241.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:00 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:02 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:03 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218277.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:03 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:05 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:05 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223557.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:05 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:07 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:08 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228251.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:08 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:10 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:11 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264612.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:11 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:13 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:14 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1252238.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:51:14 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:16 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:16 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1196074.DOCX
+1 | 0 | 352 | Info | 2019-05-16 03:51:16 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:17 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:18 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1199223.DOCX
+1 | 0 | 352 | Info | 2019-05-16 03:51:18 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:20 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:21 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1252034.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:21 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:22 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:23 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1262984.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:23 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:25 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:26 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181099.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:26 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:28 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:28 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202387.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:29 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:30 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202674.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:31 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:32 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:33 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288039.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:33 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:35 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:36 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1209059.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:36 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:38 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:38 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1292007.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:38 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:40 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:41 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1213579.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:41 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:44 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1214891.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:46 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:47 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1221149.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:47 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:49 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:54 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1227270.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:54 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:56 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:57 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1233531.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:57 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:51:58 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:51:59 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1244453.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:51:59 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:01 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:01 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181100.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:02 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:03 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:04 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181102.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:04 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:05 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:06 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202430.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:06 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:07 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:07 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202595.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:08 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:10 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:11 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1251521.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:11 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:12 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:13 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1263841.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:13 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:14 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:14 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181103.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:15 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:16 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:17 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202399.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:17 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:19 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:19 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205204.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:19 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:21 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:22 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1288177.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:22 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:23 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:23 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1215192.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:24 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:25 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:26 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1215205.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:26 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:27 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:28 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223454.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:28 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:30 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:31 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1227273.XLSX
+1 | 0 | 352 | Info | 2019-05-16 03:52:31 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:32 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:33 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1181104.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:33 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:35 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:35 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1202605.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:36 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:37 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:38 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1205299.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:38 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:39 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:40 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1218417.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:40 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:41 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:42 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1223574.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:42 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:44 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:44 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1228266.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:45 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:46 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:47 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1264674.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:47 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:52:48 |  | Realizando consulta a la BD
+1 | 0 | 352 | Info | 2019-05-16 03:52:49 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\059353\059353\237256\E1252331.XLS
+1 | 0 | 352 | Info | 2019-05-16 03:52:49 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 352 | Info | 2019-05-16 03:59:13 |  | Modificando RecoverNumber...
+1 | 0 | 352 | Info | 2019-05-16 03:59:14 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 352 | Info | 2019-05-16 03:59:14 |  | Se termino el proceso, no hay mas datos que procesar
+1 | General | 352 | Info | 2019-05-16 03:59:14 |  | Procesando FinalProcessing...
+1 | General | 352 | Info | 2019-05-16 03:59:14 |  | Modificando RecoverNumber...
+1 | General | 352 | Info | 2019-05-16 03:59:14 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 352 | Info | 2019-05-16 03:59:15 |  | Cerrando Aplicaciones...
+1 | General | 352 | Info | 2019-05-16 03:59:15 |  | Cerrando SharePoint...
+1 | General | 352 | Info | 2019-05-16 03:59:16 |  | Respaldo PVCI Finalizado!
+1 | General | 352 | Info | 2019-05-16 03:59:16 |  | Finalizando Robot.

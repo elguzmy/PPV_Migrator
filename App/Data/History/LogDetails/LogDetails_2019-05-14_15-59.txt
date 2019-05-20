@@ -1,0 +1,37 @@
+﻿1 | General | 305 | Info | 2019-05-14 03:56:10 |  | Iniciando Robot.
+1 | General | 305 | Info | 2019-05-14 03:56:11 |  | Carpetas y archivos de proyecto preparados...
+1 | General | 305 | Info | 2019-05-14 03:56:13 |  | Borrando historial viejo...
+1 | General | 305 | Info | 2019-05-14 03:56:15 |  | Borrando archivos temporales...
+1 | General | 305 | Info | 2019-05-14 03:56:17 |  | Inicialización de carpetas y archivos completada...
+1 | General | 305 | Info | 2019-05-14 03:56:21 |  | No se puede recuperar, inicializando recovery por defecto
+1 | General | 305 | Info | 2019-05-14 03:56:25 |  | Inicialización general completada!
+1 | General | 305 | Info | 2019-05-14 03:56:30 |  | Ejecutando Respaldo PVCI
+1 | General | 305 | Info | 2019-05-14 03:56:32 |  | Inicializando TransactionNumber
+1 | General | 305 | Info | 2019-05-14 03:56:38 |  | Inicializando QueueList..
+1 | General | 305 | Info | 2019-05-14 03:56:40 |  | Matando aplicaciones...
+1 | General | 305 | Info | 2019-05-14 03:56:43 |  | Cerrando SharePoint...
+1 | General | 305 | Info | 2019-05-14 03:56:51 |  | Modificando RecoverNumber...
+1 | General | 305 | Info | 2019-05-14 03:56:53 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 305 | Info | 2019-05-14 03:56:59 |  | Matando aplicaciones...
+1 | General | 305 | Info | 2019-05-14 03:57:04 |  | Chrome no esta abierto...
+1 | General | 305 | Info | 2019-05-14 03:57:07 |  | Inicializacion Completada!
+1 | General | 305 | Info | 2019-05-14 03:57:10 |  | Abriendo aplicaciones...
+1 | General | 305 | Info | 2019-05-14 03:57:16 |  | Log in to sharepoint
+1 | General | 305 | Info | 2019-05-14 03:57:39 |  | ItemData tomado correctamente!
+1 | General | 305 | Info | 2019-05-14 03:57:42 |  | Procesando 0...
+1 | 0 | 305 | Info | 2019-05-14 03:58:01 |  | Moviendo archivos descargados
+1 | 0 | 305 | Info | 2019-05-14 03:58:06 |  | Filtrando arhivos en la bibloteca
+1 | 0 | 305 | Info | 2019-05-14 03:58:09 |  | Escribiendo archivos ya filtrado en Excel
+1 | 0 | 305 | Info | 2019-05-14 03:58:31 |  | Realizando consulta a la BD
+1 | 0 | 305 | Info | 2019-05-14 03:58:35 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\037012\058369\237537\E1222900.DOC
+1 | 0 | 305 | Info | 2019-05-14 03:58:41 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 305 | Info | 2019-05-14 03:58:47 |  | Realizando consulta a la BD
+1 | 0 | 305 | Info | 2019-05-14 03:58:50 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\037012\058369\237537\E1222903.DOC
+1 | 0 | 305 | Info | 2019-05-14 03:58:53 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 305 | Info | 2019-05-14 03:58:58 |  | Realizando consulta a la BD
+1 | 0 | 305 | Info | 2019-05-14 03:59:02 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\037012\058369\237537\E1222907.DOC
+1 | 0 | 305 | Info | 2019-05-14 03:59:05 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 305 | Info | 2019-05-14 03:59:09 |  | Realizando consulta a la BD
+1 | 0 | 305 | Info | 2019-05-14 03:59:13 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\037012\058369\237537\E1274153.DOC
+1 | 0 | 305 | Info | 2019-05-14 03:59:16 |  | Copiando el archivo a la carpeta Temp

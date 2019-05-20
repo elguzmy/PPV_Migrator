@@ -1,0 +1,81 @@
+﻿1 | General | 338 | Info | 2019-05-15 03:39:21 |  | Iniciando Robot.
+1 | General | 338 | Info | 2019-05-15 03:39:21 |  | Carpetas y archivos de proyecto preparados...
+1 | General | 338 | Info | 2019-05-15 03:39:22 |  | Borrando historial viejo...
+1 | General | 338 | Info | 2019-05-15 03:39:22 |  | Borrando archivos temporales...
+1 | General | 338 | Info | 2019-05-15 03:39:22 |  | Inicialización de carpetas y archivos completada...
+1 | General | 338 | Info | 2019-05-15 03:39:22 |  | No se puede recuperar, inicializando recovery por defecto
+1 | General | 338 | Info | 2019-05-15 03:39:24 |  | Inicialización general completada!
+1 | General | 338 | Info | 2019-05-15 03:39:27 |  | Ejecutando Respaldo PVCI
+1 | General | 338 | Info | 2019-05-15 03:39:27 |  | Inicializando TransactionNumber
+1 | General | 338 | Info | 2019-05-15 03:39:27 |  | Inicializando QueueList..
+1 | General | 338 | Info | 2019-05-15 03:39:28 |  | Matando aplicaciones...
+1 | General | 338 | Info | 2019-05-15 03:39:28 |  | Cerrando SharePoint...
+1 | General | 338 | Info | 2019-05-15 03:39:30 |  | Modificando RecoverNumber...
+1 | General | 338 | Info | 2019-05-15 03:39:31 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:39:31 |  | Matando aplicaciones...
+1 | General | 338 | Info | 2019-05-15 03:39:34 |  | Chrome no esta abierto...
+1 | General | 338 | Info | 2019-05-15 03:39:34 |  | Inicializacion Completada!
+1 | General | 338 | Info | 2019-05-15 03:39:35 |  | Abriendo aplicaciones...
+1 | General | 338 | Info | 2019-05-15 03:39:38 |  | Log in to sharepoint
+1 | General | 338 | Info | 2019-05-15 03:39:49 |  | ItemData tomado correctamente!
+1 | General | 338 | Info | 2019-05-15 03:39:49 |  | Procesando 0...
+1 | 0 | 338 | Info | 2019-05-15 03:40:03 |  | Moviendo archivos descargados
+1 | 0 | 338 | Info | 2019-05-15 03:40:06 |  | Filtrando arhivos en la bibloteca
+1 | 0 | 338 | Info | 2019-05-15 03:40:06 |  | No se encontraron archivos en la bibloteca
+1 | 0 | 338 | Info | 2019-05-15 03:40:07 |  | Modificando RecoverNumber...
+1 | 0 | 338 | Info | 2019-05-15 03:40:07 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:40:07 |  | ItemData tomado correctamente!
+1 | General | 338 | Info | 2019-05-15 03:40:07 |  | Procesando 1...
+1 | 1 | 338 | Info | 2019-05-15 03:40:20 |  | Moviendo archivos descargados
+1 | 1 | 338 | Info | 2019-05-15 03:40:22 |  | Filtrando arhivos en la bibloteca
+1 | 1 | 338 | Info | 2019-05-15 03:40:22 |  | No se encontraron archivos en la bibloteca
+1 | 1 | 338 | Info | 2019-05-15 03:40:23 |  | Modificando RecoverNumber...
+1 | 1 | 338 | Info | 2019-05-15 03:40:23 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:40:23 |  | ItemData tomado correctamente!
+1 | General | 338 | Info | 2019-05-15 03:40:23 |  | Procesando 2...
+1 | 2 | 338 | Info | 2019-05-15 03:40:35 |  | Moviendo archivos descargados
+1 | 2 | 338 | Info | 2019-05-15 03:40:37 |  | Filtrando arhivos en la bibloteca
+1 | 2 | 338 | Info | 2019-05-15 03:40:37 |  | No se encontraron archivos en la bibloteca
+1 | 2 | 338 | Info | 2019-05-15 03:40:38 |  | Modificando RecoverNumber...
+1 | 2 | 338 | Info | 2019-05-15 03:40:38 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:40:38 |  | ItemData tomado correctamente!
+1 | General | 338 | Info | 2019-05-15 03:40:38 |  | Procesando 3...
+1 | 3 | 338 | Info | 2019-05-15 03:40:51 |  | Moviendo archivos descargados
+1 | 3 | 338 | Info | 2019-05-15 03:40:52 |  | Filtrando arhivos en la bibloteca
+1 | 3 | 338 | Info | 2019-05-15 03:40:52 |  | No se encontraron archivos en la bibloteca
+1 | 3 | 338 | Info | 2019-05-15 03:40:53 |  | Modificando RecoverNumber...
+1 | 3 | 338 | Info | 2019-05-15 03:40:53 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:40:53 |  | ItemData tomado correctamente!
+1 | General | 338 | Info | 2019-05-15 03:40:53 |  | Procesando 4...
+1 | 4 | 338 | Info | 2019-05-15 03:41:07 |  | Moviendo archivos descargados
+1 | 4 | 338 | Info | 2019-05-15 03:41:09 |  | Filtrando arhivos en la bibloteca
+1 | 4 | 338 | Info | 2019-05-15 03:41:09 |  | Escribiendo archivos ya filtrado en Excel
+1 | 4 | 338 | Info | 2019-05-15 03:41:09 |  | Realizando consulta a la BD
+1 | 4 | 338 | Info | 2019-05-15 03:41:10 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\082883\010006\010006\E1226771.DOCX
+1 | 4 | 338 | Info | 2019-05-15 03:41:13 |  | Copiando el archivo a la carpeta Temp
+1 | 4 | 338 | Info | 2019-05-15 03:41:14 |  | Realizando consulta a la BD
+1 | 4 | 338 | Info | 2019-05-15 03:41:15 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\082883\010006\010006\E1222553.DOCX
+1 | 4 | 338 | Info | 2019-05-15 03:41:15 |  | Copiando el archivo a la carpeta Temp
+1 | 4 | 338 | Info | 2019-05-15 03:41:16 |  | Realizando consulta a la BD
+1 | 4 | 338 | Info | 2019-05-15 03:41:17 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\082883\010006\010006\E1174369.DOCX
+1 | 4 | 338 | Info | 2019-05-15 03:41:17 |  | Copiando el archivo a la carpeta Temp
+1 | 4 | 338 | Info | 2019-05-15 03:41:18 |  | Realizando consulta a la BD
+1 | 4 | 338 | Info | 2019-05-15 03:41:19 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\082883\010006\010006\E1168925.DOCX
+1 | 4 | 338 | Info | 2019-05-15 03:41:19 |  | Copiando el archivo a la carpeta Temp
+1 | 4 | 338 | Info | 2019-05-15 03:41:54 |  | Modificando RecoverNumber...
+1 | 4 | 338 | Info | 2019-05-15 03:41:54 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:41:55 |  | Se termino el proceso, no hay mas datos que procesar
+1 | General | 338 | Info | 2019-05-15 03:41:55 |  | Procesando FinalProcessing...
+1 | General | 338 | Info | 2019-05-15 03:41:55 |  | Modificando RecoverNumber...
+1 | General | 338 | Info | 2019-05-15 03:41:55 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 338 | Info | 2019-05-15 03:41:56 |  | Cerrando Aplicaciones...
+1 | General | 338 | Info | 2019-05-15 03:41:56 |  | Cerrando SharePoint...
+1 | General | 338 | Info | 2019-05-15 03:41:57 |  | Respaldo PVCI Finalizado!
+1 | General | 338 | Info | 2019-05-15 03:41:57 |  | Finalizando Robot.

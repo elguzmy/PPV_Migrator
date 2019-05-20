@@ -1,0 +1,450 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="IniciarSesionSP" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="692,1887" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ss="clr-namespace:System.Security;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Log In to SharePoint" sap:VirtualizedContainerService.HintSize="652,1807" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Boolean" Name="ExistsLogo" />
+      <Variable x:TypeArguments="x:Boolean" Name="ExistsLogoImage" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke LogMessage workflow" sap:VirtualizedContainerService.HintSize="630,87" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Framework\LogMessage.xaml">
+      <ui:InvokeWorkflowFile.Arguments>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Message">Log in to sharepoint</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Type">Default</InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_Source">
+          <Literal x:TypeArguments="x:String" Value="" />
+        </InArgument>
+      </ui:InvokeWorkflowFile.Arguments>
+    </ui:InvokeWorkflowFile>
+    <Delay DisplayName="Delay 5s" Duration="[TimeSpan.FromMilliseconds(5000)]" sap:VirtualizedContainerService.HintSize="630,22" sap2010:WorkflowViewState.IdRef="Delay_1" />
+    <ui:UiElementExists DisplayName="Exists PPV Logo selector" Exists="[ExistsLogo]" sap:VirtualizedContainerService.HintSize="630,51" sap2010:WorkflowViewState.IdRef="UiElementExists_4">
+      <ui:UiElementExists.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="da3e17511592871e2ea181d318799d50" Selector="&lt;html app='chrome.exe' title='PPV - Client Dashboard' /&gt;&lt;webctrl parentid='Top' tag='IMG' /&gt;" TimeoutMS="3000" WaitForReady="INTERACTIVE" />
+      </ui:UiElementExists.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:UiElementExists>
+    <ui:ImageFound DisplayName="Exists PPV Logo Image" Found="[ExistsLogoImage]" sap:VirtualizedContainerService.HintSize="630,51" sap2010:WorkflowViewState.IdRef="ImageFound_1">
+      <ui:ImageFound.Image>
+        <ui:ImageTarget Image="{x:Null}" Accuracy="[8/10]" TargetImageBase64="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" />
+      </ui:ImageFound.Image>
+      <ui:ImageFound.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="&lt;html app='chrome.exe' title='PPV - Client Dashboard' /&gt;&lt;webctrl parentid='Top' tag='IMG' /&gt;" TimeoutMS="5000" WaitForReady="INTERACTIVE" />
+      </ui:ImageFound.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:ImageFound>
+    <If Condition="[not ExistsLogo and not ExistsLogoImage]" DisplayName="If not ExistsLogo" sap:VirtualizedContainerService.HintSize="630,1312" sap2010:WorkflowViewState.IdRef="If_6">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <If.Then>
+        <ui:WindowScope ApplicationWindow="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" Window="{x:Null}" DisplayName="Attach Window 'chrome.exe PPV'" sap:VirtualizedContainerService.HintSize="505,1164" sap2010:WorkflowViewState.IdRef="WindowScope_1" InformativeScreenshot="88ed2a540c3bfdd9244da4824978e993" Selector="&lt;html app='chrome.exe' omit:title='PPV - Client Dashboard' /&gt;">
+          <ui:WindowScope.Body>
+            <ActivityAction x:TypeArguments="x:Object">
+              <ActivityAction.Argument>
+                <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+              </ActivityAction.Argument>
+              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="491,1018" sap2010:WorkflowViewState.IdRef="Sequence_1">
+                <Sequence.Variables>
+                  <Variable x:TypeArguments="x:Boolean" Name="boolAlreadyLogged" />
+                  <Variable x:TypeArguments="ss:SecureString" Name="pass" />
+                  <Variable x:TypeArguments="x:String" Name="user" />
+                  <Variable x:TypeArguments="x:Boolean" Name="boolExisteCredencial" />
+                  <Variable x:TypeArguments="x:Boolean" Name="boolMantenerSesion" />
+                </Sequence.Variables>
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <ui:GetSecureCredential CredentialType="Generic" DisplayName="Get secure credential" sap:VirtualizedContainerService.HintSize="469,22" sap2010:WorkflowViewState.IdRef="GetSecureCredential_2" Password="[pass]" PersistanceType="Enterprise" Result="[boolExisteCredencial]" Target="pvciCred" Username="[user]" />
+                <If Condition="[Not boolExisteCredencial]" DisplayName="If Not boolExisteCredencial" sap:VirtualizedContainerService.HintSize="469,51" sap2010:WorkflowViewState.IdRef="If_3">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <If.Then>
+                    <Sequence DisplayName="Get" sap:VirtualizedContainerService.HintSize="222,208" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:AddCredential CredentialType="Generic" DisplayName="Add credential" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="AddCredential_2" Password="password2" PersistanceType="Enterprise" Target="pvciCred" Username="practia@ppv.com.uy" />
+                      <ui:GetSecureCredential CredentialType="Generic" DisplayName="Get secure credential" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GetSecureCredential_1" Password="[pass]" PersistanceType="Enterprise" Result="[boolExisteCredencial]" Target="pvciCred" Username="[user]" />
+                    </Sequence>
+                  </If.Then>
+                </If>
+                <ui:UiElementExists DisplayName="Element Exists 'DIV'" Exists="[boolAlreadyLogged]" sap:VirtualizedContainerService.HintSize="469,106" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
+                  <ui:UiElementExists.Target>
+                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="1bc99f343e5411bcdbbc81e6e9268e0e" Selector="&lt;html app='chrome.exe' title='Iniciar sesión en la cuenta' /&gt;&lt;webctrl aaname='practia@ppv.com.uy' parentid='tilesHolder' tag='DIV' /&gt;" TimeoutMS="3000" WaitForReady="INTERACTIVE" />
+                  </ui:UiElementExists.Target>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </ui:UiElementExists>
+                <If Condition="[boolAlreadyLogged]" DisplayName="If boolAlreadyLogged" sap:VirtualizedContainerService.HintSize="469,413" sap2010:WorkflowViewState.IdRef="If_1">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <If.Then>
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="222,266" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'Usuario Practia'" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                        <ui:Click.CursorPosition>
+                          <ui:CursorPosition Position="Center">
+                            <ui:CursorPosition.OffsetX>
+                              <InArgument x:TypeArguments="x:Int32" />
+                            </ui:CursorPosition.OffsetX>
+                            <ui:CursorPosition.OffsetY>
+                              <InArgument x:TypeArguments="x:Int32" />
+                            </ui:CursorPosition.OffsetY>
+                          </ui:CursorPosition>
+                        </ui:Click.CursorPosition>
+                        <ui:Click.Target>
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f25fbb08948b09354ac8a4f2ee1f6d63" Selector="&lt;html app='chrome.exe' title='Iniciar sesión en la cuenta' /&gt;&lt;webctrl aaname='practia@ppv.com.uy' parentid='tilesHolder' tag='DIV' /&gt;" WaitForReady="INTERACTIVE" />
+                        </ui:Click.Target>
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                      </ui:Click>
+                      <ui:OnUiElementAppear ContinueOnError="{x:Null}" FoundElement="{x:Null}" DisplayName="On Element Appear 'DIV  loginMessage'" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="OnUiElementAppear_2" RepeatForever="False" WaitActive="False" WaitVisible="True">
+                        <ui:OnUiElementAppear.Body>
+                          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="222,266" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                            <ui:TypeSecureText DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Type Secure Text 'Password'" EmptyField="True" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="TypeSecureText_1" SecureText="[pass]" SendWindowMessages="False" SimulateType="False">
+                              <ui:TypeSecureText.Target>
+                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="129432e99256d99b68d154ba418888b2" Selector="&lt;webctrl id='passwordInput' tag='INPUT' /&gt;" WaitForReady="INTERACTIVE" />
+                              </ui:TypeSecureText.Target>
+                              <sap:WorkflowViewStateService.ViewState>
+                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                </scg:Dictionary>
+                              </sap:WorkflowViewStateService.ViewState>
+                            </ui:TypeSecureText>
+                            <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'SPAN  submitButton'" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="Click_2" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                              <ui:Click.CursorPosition>
+                                <ui:CursorPosition Position="Center">
+                                  <ui:CursorPosition.OffsetX>
+                                    <InArgument x:TypeArguments="x:Int32" />
+                                  </ui:CursorPosition.OffsetX>
+                                  <ui:CursorPosition.OffsetY>
+                                    <InArgument x:TypeArguments="x:Int32" />
+                                  </ui:CursorPosition.OffsetY>
+                                </ui:CursorPosition>
+                              </ui:Click.CursorPosition>
+                              <ui:Click.Target>
+                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f356289ebe58044de656efd09f6cec25" Selector="&lt;webctrl id='submitButton' tag='SPAN' /&gt;" WaitForReady="INTERACTIVE" />
+                              </ui:Click.Target>
+                              <sap:WorkflowViewStateService.ViewState>
+                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                </scg:Dictionary>
+                              </sap:WorkflowViewStateService.ViewState>
+                            </ui:Click>
+                          </Sequence>
+                        </ui:OnUiElementAppear.Body>
+                        <ui:OnUiElementAppear.Target>
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f6ef0f8bc5bd25282c3385041a1c91a2" Selector="&lt;html app='chrome.exe' title='Iniciar sesión' /&gt;&lt;webctrl id='loginMessage' innertext='Inicie sesión mediante su cuenta organizativa' /&gt;" WaitForReady="INTERACTIVE" />
+                        </ui:OnUiElementAppear.Target>
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                      </ui:OnUiElementAppear>
+                    </Sequence>
+                  </If.Then>
+                  <If.Else>
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="222,175" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+                        <ui:CommentOut.Body>
+                          <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="508,175" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                              <Sequence.Variables>
+                                <Variable x:TypeArguments="x:Boolean" Name="boolUsarDifCuenta" />
+                              </Sequence.Variables>
+                              <sap:WorkflowViewStateService.ViewState>
+                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                </scg:Dictionary>
+                              </sap:WorkflowViewStateService.ViewState>
+                              <ui:UiElementExists DisplayName="Element Exists 'DIV  otherTileText'" Exists="[boolUsarDifCuenta]" sap:VirtualizedContainerService.HintSize="464,106" sap2010:WorkflowViewState.IdRef="UiElementExists_2">
+                                <ui:UiElementExists.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="5cfd9e41f75997e771f121c69ece383e" Selector="&lt;html app='chrome.exe' title='Iniciar sesión en la cuenta' /&gt;&lt;webctrl parentid='otherTile' tag='IMG' /&gt;" TimeoutMS="3000" WaitForReady="INTERACTIVE" />
+                                </ui:UiElementExists.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:UiElementExists>
+                              <If Condition="[boolUsarDifCuenta]" DisplayName="If boolUsarDifCuenta" sap:VirtualizedContainerService.HintSize="464,253" sap2010:WorkflowViewState.IdRef="If_4">
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                                <If.Then>
+                                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'IMG'" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_4" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                                    <ui:Click.CursorPosition>
+                                      <ui:CursorPosition Position="Center">
+                                        <ui:CursorPosition.OffsetX>
+                                          <InArgument x:TypeArguments="x:Int32" />
+                                        </ui:CursorPosition.OffsetX>
+                                        <ui:CursorPosition.OffsetY>
+                                          <InArgument x:TypeArguments="x:Int32" />
+                                        </ui:CursorPosition.OffsetY>
+                                      </ui:CursorPosition>
+                                    </ui:Click.CursorPosition>
+                                    <ui:Click.Target>
+                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="0380983bab17039a088445bb3833fc87" Selector="&lt;html app='chrome.exe' title='Iniciar sesión en la cuenta' /&gt;&lt;webctrl parentid='otherTile' tag='IMG' /&gt;" WaitForReady="INTERACTIVE" />
+                                    </ui:Click.Target>
+                                  </ui:Click>
+                                </If.Then>
+                              </If>
+                              <ui:OnUiElementAppear ContinueOnError="{x:Null}" FoundElement="{x:Null}" DisplayName="On Element Appear 'DIV'" sap:VirtualizedContainerService.HintSize="464,275" sap2010:WorkflowViewState.IdRef="OnUiElementAppear_1" RepeatForever="False" WaitActive="False" WaitVisible="True">
+                                <ui:OnUiElementAppear.Body>
+                                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="200,99" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                                    <sap:WorkflowViewStateService.ViewState>
+                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      </scg:Dictionary>
+                                    </sap:WorkflowViewStateService.ViewState>
+                                  </Sequence>
+                                </ui:OnUiElementAppear.Body>
+                                <ui:OnUiElementAppear.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="b50b5f7d56b6b3e9568608d6c06ecfaa" Selector="&lt;webctrl parentid='loginHeader' tag='DIV' /&gt;" WaitForReady="INTERACTIVE" />
+                                </ui:OnUiElementAppear.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:OnUiElementAppear>
+                              <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Type Into 'correo electronico'" EmptyField="True" sap:VirtualizedContainerService.HintSize="464,51" sap2010:WorkflowViewState.IdRef="TypeInto_1" SendWindowMessages="False" SimulateType="False" Text="[user+ &quot;[k(enter)]&quot;]">
+                                <ui:TypeInto.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="6ca5bc2918203deba6ee8122e0f363b0" Selector="&lt;webctrl id='i0116' tag='INPUT' /&gt;" WaitForReady="INTERACTIVE" />
+                                </ui:TypeInto.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:TypeInto>
+                              <ui:OnUiElementAppear ContinueOnError="{x:Null}" FoundElement="{x:Null}" DisplayName="On Element Appear 'DIV  loginMessage'" sap:VirtualizedContainerService.HintSize="464,275" sap2010:WorkflowViewState.IdRef="OnUiElementAppear_3" RepeatForever="False" WaitActive="False" WaitVisible="True">
+                                <ui:OnUiElementAppear.Body>
+                                  <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="200,99" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                                    <sap:WorkflowViewStateService.ViewState>
+                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      </scg:Dictionary>
+                                    </sap:WorkflowViewStateService.ViewState>
+                                  </Sequence>
+                                </ui:OnUiElementAppear.Body>
+                                <ui:OnUiElementAppear.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f6ef0f8bc5bd25282c3385041a1c91a2" Selector="&lt;html app='chrome.exe' title='Iniciar sesión' /&gt;&lt;webctrl id='loginMessage' innertext='Inicie sesión mediante su cuenta organizativa' /&gt;" WaitForReady="INTERACTIVE" />
+                                </ui:OnUiElementAppear.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:OnUiElementAppear>
+                              <ui:TypeSecureText DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Type Secure Text 'INPUT  passwordInput'" EmptyField="True" sap:VirtualizedContainerService.HintSize="464,51" sap2010:WorkflowViewState.IdRef="TypeSecureText_2" SecureText="[pass]" SendWindowMessages="False" SimulateType="False">
+                                <ui:TypeSecureText.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="b27ae4d7643d61a018ebe4410d61c12e" Selector="&lt;webctrl id='passwordInput' tag='INPUT' /&gt;" WaitForReady="INTERACTIVE" />
+                                </ui:TypeSecureText.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:TypeSecureText>
+                              <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'SPAN  submitButton'" sap:VirtualizedContainerService.HintSize="464,51" sap2010:WorkflowViewState.IdRef="Click_3" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                                <ui:Click.CursorPosition>
+                                  <ui:CursorPosition Position="Center">
+                                    <ui:CursorPosition.OffsetX>
+                                      <InArgument x:TypeArguments="x:Int32" />
+                                    </ui:CursorPosition.OffsetX>
+                                    <ui:CursorPosition.OffsetY>
+                                      <InArgument x:TypeArguments="x:Int32" />
+                                    </ui:CursorPosition.OffsetY>
+                                  </ui:CursorPosition>
+                                </ui:Click.CursorPosition>
+                                <ui:Click.Target>
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f356289ebe58044de656efd09f6cec25" Selector="&lt;webctrl id='submitButton' tag='SPAN' /&gt;" WaitForReady="INTERACTIVE" />
+                                </ui:Click.Target>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                              </ui:Click>
+                            </Sequence>
+                          </Sequence>
+                        </ui:CommentOut.Body>
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                      </ui:CommentOut>
+                    </Sequence>
+                  </If.Else>
+                </If>
+                <ui:UiElementExists DisplayName="Element Exists 'DIV'" Exists="[boolMantenerSesion]" sap:VirtualizedContainerService.HintSize="469,51" sap2010:WorkflowViewState.IdRef="UiElementExists_3">
+                  <ui:UiElementExists.Target>
+                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="ca7c9d76ddb10f52885f89b17a4ac59f" Selector="&lt;webctrl innertext='¿Quiere mantener la sesión iniciada?' /&gt;" TimeoutMS="3000" WaitForReady="INTERACTIVE" />
+                  </ui:UiElementExists.Target>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </ui:UiElementExists>
+                <If Condition="[boolMantenerSesion]" DisplayName="If boolMantenerSesion" sap:VirtualizedContainerService.HintSize="469,51" sap2010:WorkflowViewState.IdRef="If_5">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <If.Then>
+                    <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'INPUT  idSIButton9'" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_5" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                      <ui:Click.CursorPosition>
+                        <ui:CursorPosition Position="Center">
+                          <ui:CursorPosition.OffsetX>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetX>
+                          <ui:CursorPosition.OffsetY>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetY>
+                        </ui:CursorPosition>
+                      </ui:Click.CursorPosition>
+                      <ui:Click.Target>
+                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="b66021d9e8c1184ebf11d8e089d5a6af" Selector="&lt;webctrl id='idSIButton9' tag='INPUT' aaname='Sí' /&gt;" WaitForReady="INTERACTIVE" />
+                      </ui:Click.Target>
+                    </ui:Click>
+                  </If.Then>
+                </If>
+              </Sequence>
+            </ActivityAction>
+          </ui:WindowScope.Body>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+        </ui:WindowScope>
+      </If.Then>
+    </If>
+  </Sequence>
+</Activity>

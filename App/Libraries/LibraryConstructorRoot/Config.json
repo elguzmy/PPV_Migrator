@@ -1,0 +1,9 @@
+﻿{
+  "PathModelCsProj": "RobotLibrariesSolution\\Model\\Model.csproj",
+  "PathRegisterCsProj": "RobotLibrariesSolution\\Register\\Register.csproj",
+  "PathMarioLogicCsProj": "RobotLibrariesSolution\\MarioLogic\\MarioLogic.csproj",
+  "ProjectName": "PPV_Migrator",
+  "PathProjectJson": "C:\\Users\\gandrade\\Desktop\\PPV\\App\\project.json",
+  "LastVersion": "1.2.4",
+  "CurrentDirectory": "C:\\Users\\gandrade\\Desktop\\PPV\\App\\Libraries\\LibraryConstructorRoot"
+}

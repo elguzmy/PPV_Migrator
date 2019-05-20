@@ -1,0 +1,50 @@
+﻿1 | General | 262 | Info | 2019-05-08 12:36:59 |  | Iniciando Robot.
+1 | General | 262 | Info | 2019-05-08 12:36:59 |  | Carpetas y archivos de proyecto preparados...
+1 | General | 262 | Info | 2019-05-08 12:37:00 |  | Borrando historial viejo...
+1 | General | 262 | Info | 2019-05-08 12:37:00 |  | Borrando archivos temporales...
+1 | General | 262 | Info | 2019-05-08 12:37:01 |  | Inicialización de carpetas y archivos completada...
+1 | General | 262 | Info | 2019-05-08 12:37:02 |  | No se puede recuperar, inicializando recovery por defecto
+1 | General | 262 | Info | 2019-05-08 12:37:05 |  | Inicialización general completada!
+1 | General | 262 | Info | 2019-05-08 12:37:09 |  | Ejecutando Respaldo PVCI
+1 | General | 262 | Info | 2019-05-08 12:37:09 |  | Inicializando TransactionNumber
+1 | General | 262 | Info | 2019-05-08 12:37:10 |  | Inicializando QueueList..
+1 | General | 262 | Info | 2019-05-08 12:37:11 |  | Matando aplicaciones...
+1 | General | 262 | Info | 2019-05-08 12:37:12 |  | Cerrando SharePoint...
+1 | General | 262 | Info | 2019-05-08 12:37:14 |  | Abriendo aplicaciones...
+1 | General | 262 | Info | 2019-05-08 12:37:17 |  | Log in to sharepoint
+1 | General | 262 | Info | 2019-05-08 12:37:33 |  | Modificando RecoverNumber...
+1 | General | 262 | Info | 2019-05-08 12:37:33 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 262 | Info | 2019-05-08 12:37:35 |  | Matando aplicaciones...
+1 | General | 262 | Info | 2019-05-08 12:37:36 |  | Cerrando SharePoint...
+1 | General | 262 | Info | 2019-05-08 12:37:37 |  | Inicializacion Completada!
+1 | General | 262 | Info | 2019-05-08 12:37:38 |  | Abriendo aplicaciones...
+1 | General | 262 | Info | 2019-05-08 12:37:41 |  | Log in to sharepoint
+1 | General | 262 | Info | 2019-05-08 12:37:54 |  | ItemData tomado correctamente!
+1 | General | 262 | Info | 2019-05-08 12:37:55 |  | Procesando 0...
+1 | 0 | 262 | Info | 2019-05-08 12:38:13 |  | Moviendo archivos descargados
+1 | 0 | 262 | Info | 2019-05-08 12:38:20 |  | Filtrando arhivos en la bibloteca
+1 | 0 | 262 | Info | 2019-05-08 12:38:21 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:40:46 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:40:59 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:01 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:03 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:04 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:09 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:10 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:15 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:17 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:19 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:21 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:23 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:24 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:27 |  | Realizando consulta a la BD
+1 | 0 | 262 | Info | 2019-05-08 12:41:28 |  | Modificando RecoverNumber...
+1 | 0 | 262 | Info | 2019-05-08 12:41:29 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 262 | Info | 2019-05-08 12:41:30 |  | ItemData tomado correctamente!
+1 | General | 262 | Info | 2019-05-08 12:41:31 |  | Procesando 1...
+1 | 1 | 262 | Info | 2019-05-08 12:41:32 |  | Modificando RecoverNumber...
+1 | 1 | 262 | Info | 2019-05-08 12:41:32 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 262 | Info | 2019-05-08 12:41:32 |  | Finalizando Robot.

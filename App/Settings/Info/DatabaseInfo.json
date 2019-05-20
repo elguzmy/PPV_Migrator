@@ -1,0 +1,7 @@
+﻿{
+  "ConnectionString": "Server=10.6.0.21;Database=PruebaLogs;User=RPA_USER; Password=Password01",
+  "ProviderName": "System.Data.SqlClient",
+  "SPName": "AddLog",
+  "Error": "",
+  "HasErrors": false
+}

@@ -1,0 +1,1 @@
+@start "RebootData" /D "%cd%\LibraryConstructorRoot" /B "%cd%\LibraryConstructorRoot\RebootData.exe"

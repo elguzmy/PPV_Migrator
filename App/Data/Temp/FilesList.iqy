@@ -1,0 +1,16 @@
+WEB
+1
+https://posadasvecino.sharepoint.com/sites/ClientePVCI/BIALET,MARIOENRIQUE/HARPINALIMITED/CorporativoGeneral/_vti_bin/owssvr.dll?XMLDATA=1&List={96DFAB44-71D3-41BB-A132-2A603E79F630}&View=C89110F6-83CB-4CEE-A289-59B9500CB432&RowLimit=0&RootFolder=undefined
+
+Selection={96DFAB44-71D3-41BB-A132-2A603E79F630}-C89110F6-83CB-4CEE-A289-59B9500CB432
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://posadasvecino.sharepoint.com/sites/ClientePVCI/BIALET,MARIOENRIQUE/HARPINALIMITED/CorporativoGeneral/_vti_bin
+SharePointListView=C89110F6-83CB-4CEE-A289-59B9500CB432
+SharePointListName={96DFAB44-71D3-41BB-A132-2A603E79F630}
+RootFolder=undefined

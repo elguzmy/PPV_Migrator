@@ -1,0 +1,1 @@
+@start "RobotLibrariesSolution" /D "%cd%\LibraryConstructorRoot\RobotLibrariesSolution" /B "%cd%\LibraryConstructorRoot\RobotLibrariesSolution\RobotLibrariesSolution.sln"

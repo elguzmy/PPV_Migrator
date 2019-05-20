@@ -1,0 +1,12 @@
+public static {0} {1} 
+{2}{{ 
+{2}	get	
+{2}	{{
+{2}		return ({0})_jsonValues["{1}"];
+{2}	}} 
+{2}	
+{2}	set 
+{2}	{{
+{2}		_jsonValues["{1}"] = value;
+{2}	}}
+{2}}}

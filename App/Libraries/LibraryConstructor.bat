@@ -1,0 +1,1 @@
+@start "LibraryConstructor" /D "%cd%\LibraryConstructorRoot" /B "%cd%\LibraryConstructorRoot\LibraryConstructor.exe"

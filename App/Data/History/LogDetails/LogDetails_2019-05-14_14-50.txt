@@ -1,0 +1,46 @@
+﻿1 | General | 303 | Info | 2019-05-14 02:48:46 |  | Iniciando Robot.
+1 | General | 303 | Info | 2019-05-14 02:48:46 |  | Carpetas y archivos de proyecto preparados...
+1 | General | 303 | Info | 2019-05-14 02:48:46 |  | Borrando historial viejo...
+1 | General | 303 | Info | 2019-05-14 02:48:47 |  | Borrando archivos temporales...
+1 | General | 303 | Info | 2019-05-14 02:48:47 |  | Inicialización de carpetas y archivos completada...
+1 | General | 303 | Info | 2019-05-14 02:48:47 |  | No se puede recuperar, inicializando recovery por defecto
+1 | General | 303 | Info | 2019-05-14 02:48:50 |  | Inicialización general completada!
+1 | General | 303 | Info | 2019-05-14 02:48:53 |  | Ejecutando Respaldo PVCI
+1 | General | 303 | Info | 2019-05-14 02:48:53 |  | Inicializando TransactionNumber
+1 | General | 303 | Info | 2019-05-14 02:48:53 |  | Inicializando QueueList..
+1 | General | 303 | Info | 2019-05-14 02:48:54 |  | Matando aplicaciones...
+1 | General | 303 | Info | 2019-05-14 02:48:57 |  | Chrome no esta abierto...
+1 | General | 303 | Info | 2019-05-14 02:48:59 |  | Modificando RecoverNumber...
+1 | General | 303 | Info | 2019-05-14 02:48:59 |  | Finalizado correctamente!
+------------------------------------------------------
+1 | General | 303 | Info | 2019-05-14 02:48:59 |  | Matando aplicaciones...
+1 | General | 303 | Info | 2019-05-14 02:49:02 |  | Chrome no esta abierto...
+1 | General | 303 | Info | 2019-05-14 02:49:02 |  | Inicializacion Completada!
+1 | General | 303 | Info | 2019-05-14 02:49:03 |  | Abriendo aplicaciones...
+1 | General | 303 | Info | 2019-05-14 02:49:06 |  | Log in to sharepoint
+1 | General | 303 | Info | 2019-05-14 02:49:19 |  | ItemData tomado correctamente!
+1 | General | 303 | Info | 2019-05-14 02:49:20 |  | Procesando 0...
+1 | 0 | 303 | Info | 2019-05-14 02:49:33 |  | Moviendo archivos descargados
+1 | 0 | 303 | Info | 2019-05-14 02:49:36 |  | Filtrando arhivos en la bibloteca
+1 | 0 | 303 | Info | 2019-05-14 02:49:36 |  | Escribiendo archivos ya filtrado en Excel
+1 | 0 | 303 | Info | 2019-05-14 02:49:37 |  | Realizando consulta a la BD
+1 | 0 | 303 | Info | 2019-05-14 02:49:38 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\095196\017855\017855\E1170063.DOCX
+1 | 0 | 303 | Info | 2019-05-14 02:49:41 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 303 | Info | 2019-05-14 02:49:45 |  | Realizando consulta a la BD
+1 | 0 | 303 | Info | 2019-05-14 02:49:46 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\095196\017855\232088\E0650107.DOC
+1 | 0 | 303 | Info | 2019-05-14 02:49:46 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 303 | Info | 2019-05-14 02:49:47 |  | Realizando consulta a la BD
+1 | 0 | 303 | Info | 2019-05-14 02:49:48 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\095196\017855\232088\E0657843.DOC
+1 | 0 | 303 | Info | 2019-05-14 02:49:48 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 303 | Info | 2019-05-14 02:49:49 |  | Realizando consulta a la BD
+1 | 0 | 303 | Info | 2019-05-14 02:49:50 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\095196\017855\232088\E0646390.DOC
+1 | 0 | 303 | Info | 2019-05-14 02:49:50 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 303 | Info | 2019-05-14 02:49:51 |  | Realizando consulta a la BD
+1 | 0 | 303 | Info | 2019-05-14 02:49:53 |  | Checkeando si existe archivo: \\192.168.2.5\worldox\wddata.2\WDDOCS\CLI-PVCI\095196\017855\232088\E1163210.DOCX
+1 | 0 | 303 | Info | 2019-05-14 02:49:53 |  | Copiando el archivo a la carpeta Temp
+1 | 0 | 303 | Warning | 2019-05-14 02:50:25 | Invoke Process workflow => Invoke SearchAndUploadFIle workflow: Process => Invoke SearchAndUploadFIle workflow => Invoke UploadFile workflow: SearchFile => If files_dt  isnot nothing => Do => If Directory.GetFiles(ConfigProcess.PathTemp_PPV_MigratorFiles).Count > 0 => Upload file and save state => Invoke UploadFile workflow => Add Data Row | Intento 1: Input array is longer than the number of columns in this table.
+1 | 0 | 303 | Info | 2019-05-14 02:50:25 |  | Cerrando Aplicaciones...
+1 | 0 | 303 | Info | 2019-05-14 02:50:25 |  | Cerrando SharePoint...
+1 | General | 303 | Info | 2019-05-14 02:50:27 |  | Abriendo aplicaciones...
+1 | General | 303 | Info | 2019-05-14 02:50:29 |  | Log in to sharepoint
+1 | General | 303 | Info | 2019-05-14 02:50:30 |  | Finalizando Robot.
