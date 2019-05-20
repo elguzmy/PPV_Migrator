@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Pruebas" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="376,554" sap2010:WorkflowViewState.IdRef="Pruebas_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Pruebas" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="262,255" sap2010:WorkflowViewState.IdRef="Pruebas_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -53,10 +53,9 @@
       <AssemblyReference>UiPath.Mail</AssemblyReference>
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
       <AssemblyReference>System.Data.Entity</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Pruebas" sap:VirtualizedContainerService.HintSize="336,474" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Pruebas" sap:VirtualizedContainerService.HintSize="222,175" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="hola" Name="coso" />
       <Variable x:TypeArguments="sd:DataTable" Name="out_query_dt" />
@@ -71,7 +70,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InvokeCode ContinueOnError="{x:Null}" Code="Config.Initialize(Environment.CurrentDirectory + &quot;\\Settings\\Configuration\\Config.json&quot;)&#xA;DatabaseInfo.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathDatabaseInfo)&#xA;ExecutionInfo.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathExecutionInfo)&#xA;Recovery.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathRecovery)&#xA;StopHandler.Initialize(Environment.CurrentDirectory + &quot;\\Settings\\Info\\StopHandler.json&quot;)&#xA;&#xA;ConfigProcess.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathConfigProcess)" DisplayName="Initialize files in memory" sap:VirtualizedContainerService.HintSize="314,51" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code="Config.Initialize(Environment.CurrentDirectory + &quot;\\Settings\\Configuration\\Config.json&quot;)&#xA;DatabaseInfo.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathDatabaseInfo)&#xA;ExecutionInfo.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathExecutionInfo)&#xA;Recovery.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathRecovery)&#xA;StopHandler.Initialize(Environment.CurrentDirectory + &quot;\\Settings\\Info\\StopHandler.json&quot;)&#xA;&#xA;ConfigProcess.Initialize(Environment.CurrentDirectory + &quot;\\&quot; + Config.PathConfigProcess)" DisplayName="Initialize files in memory" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
       <ui:InvokeCode.Arguments>
         <scg:Dictionary x:TypeArguments="x:String, Argument" />
       </ui:InvokeCode.Arguments>
@@ -82,22 +81,5 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:InvokeCode>
-    <Assign DisplayName="Assign splitFileName" sap:VirtualizedContainerService.HintSize="314,60" sap2010:WorkflowViewState.IdRef="Assign_1">
-      <Assign.To>
-        <OutArgument x:TypeArguments="s:String[]">[splitFileName]</OutArgument>
-      </Assign.To>
-      <Assign.Value>
-        <InArgument x:TypeArguments="s:String[]">[Split("holam como. ands .XsssssLS", ".")]</InArgument>
-      </Assign.Value>
-    </Assign>
-    <Assign DisplayName="Assign fileExtension" sap:VirtualizedContainerService.HintSize="314,60" sap2010:WorkflowViewState.IdRef="Assign_2">
-      <Assign.To>
-        <OutArgument x:TypeArguments="x:String">[fileExtension]</OutArgument>
-      </Assign.To>
-      <Assign.Value>
-        <InArgument x:TypeArguments="x:String">[splitFileName(splitFileName.Length-1)]</InArgument>
-      </Assign.Value>
-    </Assign>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="314,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[fileExtension]" TopMost="True" />
   </Sequence>
 </Activity>
